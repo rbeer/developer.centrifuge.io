@@ -10,7 +10,7 @@ The contracts are separated into two logical areas: loan contracts and investor 
 ## Borrower
 The loan contracts look as follows:
 
-![Borrower Contracts](./borrower.svg)
+![Borrower Contracts](./borrower.svg#box-shadow=2px 2px 5px 0px rgba(0, 0, 0, 0.6))
 
 ### Currency
 Tinlake functions with any ERC20 contract. When deploying an instance of Tinlake, the address of the ERC20 token, we refer to as currency, is set.
