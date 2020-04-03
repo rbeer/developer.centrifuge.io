@@ -12296,7 +12296,7 @@ relay-runtime@2.0.0:
 
 "remark-image-attributes@https://github.com/rbeer/remark-image-attributes.git#147_netlify":
   version "0.1.2"
-  resolved "https://github.com/rbeer/remark-image-attributes.git#60b4f2048efc502d8afa241886c671d60d88fa8b"
+  resolved "https://github.com/rbeer/remark-image-attributes.git#a7814d01937ad4fe1ba2577df1aed9e346aa64d5"
 
 remark-math@^1.0.3:
   version "1.0.6"
