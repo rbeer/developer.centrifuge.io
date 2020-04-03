@@ -12294,10 +12294,9 @@ relay-runtime@2.0.0:
     "@babel/runtime" "^7.0.0"
     fbjs "^1.0.0"
 
-remark-image-attributes@^0.1.2:
+"remark-image-attributes@https://github.com/rbeer/remark-image-attributes.git#147_netlify":
   version "0.1.2"
-  resolved "https://registry.yarnpkg.com/remark-image-attributes/-/remark-image-attributes-0.1.2.tgz#17a16782576c23594e35d7212b2e8ed6be633f6f"
-  integrity sha512-AGhPTtN/GSNzFRrKlBcyTQIonmoKIqKhdnIf4YAyMBFjHmZUOaqLc2Csd69DQ+9txETtmDbmFJp7yOTdRJQnDA==
+  resolved "https://github.com/rbeer/remark-image-attributes.git#60b4f2048efc502d8afa241886c671d60d88fa8b"
 
 remark-math@^1.0.3:
   version "1.0.6"
